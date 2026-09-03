@@ -23,7 +23,7 @@ Materials Science & Engineering graduate student researching antiferroelectric t
 
 ## 📫 Connect
 - LinkedIn: www.linkedin.com/in/saloni-sakala-096036248/
-- Email: salonisakala@gatech.edu
+
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Saloni1327)](https://github.com/stats-organization/github-stats-extended)
 
