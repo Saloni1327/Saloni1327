@@ -4,16 +4,16 @@ Materials Science & Engineering graduate student researching antiferroelectric t
 
 ## 🔬 About Me
 - 🎓 MS in Materials Science and Engineering @ Georgia Tech, SMART Lab (advised by Dr. Nazanin Bassiri-Gharb) — expected May 2027
-- 🧪 Research: Crystallographic orientation control of antiferroelectric PbHfO₃ (PHO) thin films using LaNiO₃ (LNO) seed layers via chemical solution deposition
-  (🏆 Achieved a Lotgering factor >95% for (00l)-oriented PHO films — presented at IWATMD 2026)
+  _Research:_ Crystallographic orientation control of antiferroelectric PbHfO₃ (PHO) thin films using LaNiO₃ (LNO) seed layers via chemical solution deposition
+  (Presented at IWATMD 2026)
 - 🎓 B.Tech in Metallurgical and Materials Engineering, COEP Technological University, Pune (2025)
-- 💡 Interested in the intersection of materials, computation, and sustainability
+- Interested in the intersection of materials, computation, and sustainability
 
 ## 🛠️ Technical Skills
--**Languages & Data Tools:** Python (scikit-learn, pandas), MATLAB
--**Characterization:** XRD, SEM, TEM, PE-loop measurements, four-point probe resistivity
--**Design & Simulation:** SolidWorks, AutoCAD, CATIA, ImageJ, ThermoCalc
--**Fabrication & Cleanroom:** Chemical solution deposition, RIE, sputtering, photolithography, electroplating, femtosecond laser via drilling
+- **Languages & Data Tools:** Python (scikit-learn, pandas), MATLAB
+- **Characterization:** XRD, SEM, TEM, PE-loop measurements, four-point probe resistivity
+- **Design & Simulation:** SolidWorks, AutoCAD, CATIA, ImageJ, ThermoCalc
+- **Fabrication & Cleanroom:** Chemical solution deposition, RIE, sputtering, photolithography, electroplating, femtosecond laser via drilling
 
 ## 🚀 Featured Projects
 - **Crystallographic Orientation Control of PbHfO₃ Thin Films** — Master's thesis research on antiferroelectric thin films for energy-storage applications; poster presented at IWATMD 2026
