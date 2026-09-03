@@ -10,10 +10,10 @@ Materials Science & Engineering graduate student researching antiferroelectric t
 - 💡 Interested in the intersection of materials, computation, and sustainability
 
 ## 🛠️ Technical Skills
-**Languages & Data Tools:** Python (scikit-learn, pandas), MATLAB
-**Characterization:** XRD, SEM, TEM, PE-loop measurements, four-point probe resistivity
-**Design & Simulation:** SolidWorks, AutoCAD, CATIA, ImageJ, ThermoCalc
-**Fabrication & Cleanroom:** Chemical solution deposition, RIE, sputtering, photolithography, electroplating, femtosecond laser via drilling
+-**Languages & Data Tools:** Python (scikit-learn, pandas), MATLAB
+-**Characterization:** XRD, SEM, TEM, PE-loop measurements, four-point probe resistivity
+-**Design & Simulation:** SolidWorks, AutoCAD, CATIA, ImageJ, ThermoCalc
+-**Fabrication & Cleanroom:** Chemical solution deposition, RIE, sputtering, photolithography, electroplating, femtosecond laser via drilling
 
 ## 🚀 Featured Projects
 - **Crystallographic Orientation Control of PbHfO₃ Thin Films** — Master's thesis research on antiferroelectric thin films for energy-storage applications; poster presented at IWATMD 2026
